@@ -1,5 +1,5 @@
 # Kmeans_temporel
-Une implémentation d'une variation temporelle du KMeans. 
+A temporal variation of the KMeans.
 
 The project description is in the pdf (in french).
 The notebook present a use case.
