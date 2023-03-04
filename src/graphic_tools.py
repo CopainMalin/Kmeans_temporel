@@ -8,10 +8,6 @@ import seaborn as sns
 from aquarel import load_theme
 # KMeans
 from src.TemporalKmeans import TemporalKmeans
-# Graphic settings
-sns.set_style(style="darkgrid")
-theme = load_theme("arctic_dark")
-theme.apply()
 
 ############### PLOTTING PROTOTYPICAL ###############
 
